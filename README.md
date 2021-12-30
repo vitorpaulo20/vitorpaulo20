@@ -2,13 +2,13 @@
 Bacharel em Ciências da Computação, Técnico em Redes de Computadores amante de animais <img src =https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/292/dog-face_1f436.png height="22" width="15,5">,natureza<img src= https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/309/rainbow_1f308.png height="20" width="15"> e de boa musica !<img src = https://user-images.githubusercontent.com/43021236/138954910-1ae29cd1-33bc-4150-980f-8fb332a0c163.png height="20" width="15">
 
 
-<div style="background-color:#141414;" align="left">
+<div align="left">
   <a href="https://github.com/vitorpaulo20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpaulo20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpaulo20&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Vitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Vitor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<div style="background-color:#141414; display: inline_block"><img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Vitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Vitor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
   
 </div>
