@@ -1,5 +1,5 @@
-## Olá me chamo Paulo Vitor, atualmente Analista de TI e estudante de linguagens de programação.
-Bacharel em Ciências da Computação, Técnico em Redes de Computadores amante de animais <img src =https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/292/dog-face_1f436.png height="22" width="15,5">,natureza<img src= https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/309/rainbow_1f308.png height="20" width="15"> e de boa musica !<img src = https://user-images.githubusercontent.com/43021236/138954910-1ae29cd1-33bc-4150-980f-8fb332a0c163.png height="20" width="15">
+## Olá me chamo Paulo Vitor, atualmente Supervisor de TI e estudante de linguagens de programação.
+Bacharel em Ciências da Computação, Técnico em Redes de Computadores amante de animais e pós graduado em big data and business analytics <img src =https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/292/dog-face_1f436.png height="22" width="15,5">,natureza<img src= https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/309/rainbow_1f308.png height="20" width="15"> e de boa musica !<img src = https://user-images.githubusercontent.com/43021236/138954910-1ae29cd1-33bc-4150-980f-8fb332a0c163.png height="20" width="15">
 
 
 <div align="left">
