@@ -1,6 +1,10 @@
-## Olá me chamo Paulo Vitor, atualmente Supervisor de TI e estudante de linguagens de programação.
-Bacharel em Ciências da Computação, Técnico em Redes de Computadores amante de animais e pós graduado em big data and business analytics.
+## 👋 Olá! Sou Paulo Vitor, Supervisor de TI com experiência em gestão de projetos, infraestrutura e segurança de redes. Sou Bacharel em Ciências da Computação, Técnico em Redes de Computadores e pós-graduado em Big Data & Business Analytics.
 
+💻 Apaixonado por tecnologia, estou em constante aprendizado de linguagens de programação, com foco no desenvolvimento de soluções inovadoras e eficientes.
+
+🐾 Além disso, sou amante de animais e acredito no equilíbrio entre a vida profissional e pessoal.
+
+🚀 Vamos construir algo incrível juntos? Entre em contato comigo!
 
 <div align="left">
   <a href="https://github.com/vitorpaulo20">
@@ -10,7 +14,6 @@ Bacharel em Ciências da Computação, Técnico em Redes de Computadores amante 
 
 <div style="background-color:#141414; display: inline_block"><img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Vitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Vitor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
-  
 </div>
   
   ##
